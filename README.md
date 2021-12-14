@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AashvikTyagi
 - 👀 I’m interested in EVERYTHING tech!
 - 🌱 I’m currently learning nothing, ehhh, randoming.
-- 💞️ I’m looking to collaborate on mechanical keyboard, random python projects, and ANYTHING else!
+- 💞️ I’m looking to collaborate on mechanical keyboards, random python projects, and ANYTHING else!
 - 📫 How to reach me: through GitHub, of course, and my gmail : its.aashvik.tyagi@gmail.com
 - ▶️ My YouTube channel: https://youtube.com/c/AashvikTyagi
 
