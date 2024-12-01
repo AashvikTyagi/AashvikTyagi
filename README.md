@@ -1,4 +1,4 @@
-I’m @AashvikTyagi, student and maker.
+I’m Aashvik, student and maker.
 I enjoy robotics, embedded, c++, python, gaming, books, art, origami, cad, and tech in general.
 
 <!---
